@@ -15,4 +15,4 @@ VDD(ADS1115)-3V(STM32F0)
 f) V Parameter Settings protokola I2Cspremenite Speed Mode na Fast. Koliko
 znaša sedaj frekvenca?______8MHz________.
 
-Komentar:Naloga žal ni delovala po pričakovanjih. Meniva, da je težava v vzpostavitvi komunikacije.
+Komentar: Sama naloga žal ni delovala po pričakovanjih. Meniva, da se težava nahaja v sami vzpostavitvi komunikacije.
